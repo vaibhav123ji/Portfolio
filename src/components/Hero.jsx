@@ -10,7 +10,7 @@ function Hero() {
 
         <h1>Vaibhav</h1>
 
-        <h2>Frontend Developer</h2>
+        <h2>Full Stack Developer</h2>
 
         <p>
           I create responsive, modern, and user-friendly websites using

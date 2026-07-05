@@ -7,7 +7,7 @@ function About() {
       <h2>About Me</h2>
 
       <p>
-        I'm Vaibhav, a passionate Frontend Developer who loves creating
+        I'm Vaibhav, a passionate Full Stack Development who loves creating
         responsive and user-friendly websites using React.
       </p>
 
